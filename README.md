@@ -2,6 +2,10 @@
 
 This repository demonstrates a robust Python-based ETL (Extract, Transform, Load) pipeline designed to handle semi-structured, deeply nested JSON data. This workflow simulates a serverless data engineering architecture typically found in modern cloud environments like AWS.
 
+<img width="700" height="255" alt="Screenshot 2025-11-29 at 13 06 57" src="https://github.com/user-attachments/assets/e12c266c-fbae-4023-a375-15e51f47534a" />
+
+
+
 ## 📊 Project Overview
 
 - In modern data lakes, information arriving from sources like AWS S3 is often hierarchical. This project provides a production-ready logic to:
